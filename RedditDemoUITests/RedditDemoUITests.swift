@@ -2,7 +2,7 @@
 //  RedditDemoUITests.swift
 //  RedditDemoUITests
 //
-//  Created by Chandrakala Neerukonda on 3/31/21.
+//  Created by Sai Pavan Neerukonda on 3/31/21.
 //
 
 import XCTest
